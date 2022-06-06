@@ -49,8 +49,8 @@ export default {
   padding-top: 0;
   background-color: white;
   color: #333;
-  text-align: center;
-  line-height: 160px;
+  //text-align: center;
+  line-height: 80px;
   border-left-style:solid;
   border-left-width: 2px;
   border-left-color:#E4E7ED;
